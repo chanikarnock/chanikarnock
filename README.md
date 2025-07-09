@@ -7,7 +7,7 @@ I'm Chanikarn, a developer who enjoy creating something new and interesting. Iâ€
 
 
 <div id="badges" align="center">
-  <a href="[https://code-by-chanikarn.vercel.app/](https://code-by-chanikarn.vercel.app/)">
+  <a href="https://code-by-chanikarn.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio%20Web-8A2BE2" alt="Portfolio Web"/>
   </a>
 </div>
